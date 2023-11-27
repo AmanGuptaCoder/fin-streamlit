@@ -2,7 +2,7 @@
 name = "fin-streamlit"
 version = "0.1.2"
 description = "Financial dashboards"
-authors = ["jp <plutakuba@gmail.com>"]
+authors = ["jp <amanuniquecoder@gmail.com>"]
 readme = "README.md"
 classifiers = [
     "Programming Language :: Python :: 3",
